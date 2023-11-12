@@ -1,1 +1,2 @@
-## [Сайт лейдинг яхт клуба](igorrichter.github.io/sail-club/)
+# [Сайт лейдинг яхт клуба](https://igorrichter.github.io/sail-club/)
+- Верстка html css + js
